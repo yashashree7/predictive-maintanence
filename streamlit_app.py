@@ -1,5 +1,6 @@
-import streamlit as st
+Temperature
+Actual : 40C
+Current : 
 
-st.title('🎈 App Name')
-
-st.write('Hello world!')
+Voltage
+Actual : 100V
