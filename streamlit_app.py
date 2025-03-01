@@ -1,6 +1,3 @@
-Temperature
-Actual : 40C
-Current : 
-
-Voltage
-Actual : 100V
+Temperature        voltage
+Actual : 40C      Actual : 100V
+Current :         Current :
